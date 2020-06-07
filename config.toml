@@ -1,0 +1,12 @@
+baseURL = "https://aralybarrera.com/"
+languageCode = "en-us"
+title = ""
+theme = "ananke"
+
+[params]
+description="A site/blog displaying my hobby as a photographer and photo editor!"
+site_logo="/images/logo.png"
+featured_image=""
+background_color_class="bg-white"
+#body_classes="avenir bg-black"
+omit_header_text=true
