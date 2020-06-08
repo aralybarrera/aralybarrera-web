@@ -1,12 +1,13 @@
 baseURL = "https://aralybarrera.com/"
 languageCode = "en-us"
-title = ""
+title = "Araly Barrerra : photographer"
 theme = "ananke"
 
 [params]
-description="A site/blog displaying my hobby as a photographer and photo editor!"
+description="World-wide photographer."
 site_logo="/images/logo.png"
-featured_image=""
-background_color_class="bg-white"
+featured_image="/images/flowers.jpg"
+#background_color_class="bg-white"
 #body_classes="avenir bg-black"
-omit_header_text=true
+#omit_header_text=true
+instagram="https://instagram.com"
